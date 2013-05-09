@@ -6,6 +6,11 @@
 	"platform_version": "v1.4",
 	"description": "An empty app created by default",
 	"modules": {
+		"requirements": {
+			"ios": {
+				"device_family": "iphone"
+			}
+		},
 		"logging": {
 			"level": "DEBUG"
 		},
